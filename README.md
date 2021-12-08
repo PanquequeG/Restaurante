@@ -12,7 +12,7 @@
  
  5.- Acto seguido el usuario podrá proceder con su pago, este tendrá dos opciones, debito o efectivo.
 
-Modulo Jaciel Grijalva: Asignación de variables, atributos y el login del usuario.
+Modulo Jaciel Grijalva: Clase alimentos asignación de variables, atributos y el login del usuario.
 
 Modulo Arnoldo Galindo: Desarrolla la opcion de ver el menú.
 
