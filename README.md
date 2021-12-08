@@ -11,3 +11,15 @@
  4.- Ahora podrá ver la suma de los platillos y bien podrá agregar más si lo desea.
  
  5.- Acto seguido el usuario podrá proceder con su pago, este tendrá dos opciones, debito o efectivo.
+
+Modulo Jaciel Grijalva: Asignación de variables y atributos.
+
+Modulo Arnoldo Galindo: Desarrolla la opcion de ver el menú.
+
+Modulo Luis Reyna: Desarrolla la opción para agregar platillos y mostrar el precio de los platillos acumulados.
+
+Modulo Antonio Tanori: Desarrolla la opción para que el precio acumulado pase a pagarse ya sea con tarjeta o efectivo.
+
+Dificultades:
+
+Tuvimos problemas principalmente para introducir el código con poo ya que no comprendíamos muy bien su funcionamiento
